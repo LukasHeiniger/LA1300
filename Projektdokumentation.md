@@ -20,8 +20,15 @@ Wir machen ein Spiel in dem man auf einen Knopf drücken kann der, dann einen Z�
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    |                 |      | Als Benutzer möchte ich ein Button haben, damit ich auf den Button klicken kann|
+| 2    |                 |      | Als Benutzer möchte ich einen Zahler, damit ich sehen kann wie viel ich schon geklickt|
+| 3    |                 |      | Als Benutzer möchte ich Upgrades haben, damit der Zähler immer schneller nach oben schiesst|
+| 4    |                 |      | Als Benutzer möchte ich einen Resetbutton haben, damit ich das Spiel von vorne beginnen kann|
+| 5    |                 |      | Als Benutzer möchte ich mein Spielstanabspeicher, damit ich nicht immer wieder von vorne beginnen muss|
+| 6    |                 |      | Als Benutzer möchte                |
+| 7    |                 |      |                                    |
+| 8    |                 |      |                                    |
+
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
