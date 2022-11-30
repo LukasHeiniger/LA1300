@@ -20,13 +20,13 @@ Wir machen ein Spiel in dem man auf einen Knopf drücken kann der, dann einen Z�
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als Benutzer möchte ich ein Button haben, damit ich auf den Button klicken kann|
-| 2    |                 |      | Als Benutzer möchte ich einen Zahler, damit ich sehen kann wie viel ich schon geklickt|
-| 3    |                 |      | Als Benutzer möchte ich Upgrades haben, damit der Zähler immer schneller nach oben schiesst|
-| 4    |                 |      | Als Benutzer möchte ich einen Resetbutton haben, damit ich das Spiel von vorne beginnen kann|
-| 5    |                 |      | Als Benutzer möchte ich mein Spielstanabspeicher, damit ich nicht immer wieder von vorne beginnen muss|
-| 6    |                 |      | Als Benutzer möchte ich einen Timer haben welcher mir Sagt wie lange ich schon spiele, damit ich weiss wie lange ich schon an einem Spielstand bin              |
-| 7    |                 |      | Als Benutzer möchte ich schöne Modelle, damit das Spiel besser aussieht                                   |
+| 1    |  muss               | funktional     | Als Benutzer möchte ich ein Button haben, damit ich auf den Button klicken kann|
+| 2    |  muss               | funktional     | Als Benutzer möchte ich einen Zahler, damit ich sehen kann wie viel ich schon geklickt|
+| 3    |  muss               | funktional     | Als Benutzer möchte ich Upgrades haben, damit der Zähler immer schneller nach oben schiesst|
+| 4    |  muss               | randanforderung     | Als Benutzer möchte ich einen Resetbutton haben, damit ich das Spiel von vorne beginnen kann|
+| 5    |  kann                | randanforderung     | Als Benutzer möchte ich mein Spielstand abspeicher, damit ich nicht immer wieder von vorne beginnen muss|
+| 6    |  kann               | randanforderung     | Als Benutzer möchte ich einen Timer haben welcher mir Sagt wie lange ich schon spiele, damit ich weiss wie lange ich schon an einem Spielstand bin              |
+| 7    | kann                | qualität      | Als Benutzer möchte ich schöne Modelle, damit das Spiel besser aussieht                                   |
 | 8    |                 |      |                                    |
 
 
