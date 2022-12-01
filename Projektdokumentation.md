@@ -38,7 +38,7 @@ Wir machen ein Spiel in dem man auf einen Knopf drücken kann der, dann einen Z�
 | ---- | ------------ | ------- | ----------------- |
 | 1.1  | Wenn der Button geklickt +1             |   klicken des Buttons      |     +1              |
 | 2    | Der Timmer soll pro Sekunde hoch zählen.             |  Zeit vegeht       |  Timer zählt hoch                 |
-
+| 3    | Durch den Kauf eine Upgrad werden die Punkte abgezogen| kauf des Upgrads| X wert minus Kaufpreis
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ### 1.4 Diagramme
