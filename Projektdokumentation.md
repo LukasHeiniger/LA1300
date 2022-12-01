@@ -49,14 +49,36 @@ Wir machen ein Spiel in dem man auf einen Knopf drücken kann der, dann einen Z�
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  | 01.12.22  | Heiniger | Einen Button welches man zum Klicken brauchen kann.           |15 min|
-| 2.A | 01.12.22   | Bischof | Zähler zum schauen wie viel man geklickt hat                  |30 min|
-| 2.B  | 01.12.22  | Salie | Upgrades welches den Zähler schneller nach oben gehen lässt.                     |45 min|
-| 4.A  | 01.12.22  | Hassani | Resetbutton welches den Zähler zurück setzt.                        |30 min|
-| 5.A  | 08.12.22  | Hassani,Salie | Design auf Windows Forms                 |90 min|
-| 6.A  | 08.12.22  | Bischof | Spielstand speichern und dann von vorne beginnen.                 |45 min|
-| 7.A  | 08.12.22  | Heiniger | Timer für die Spielzeit.                         |30 min|
-
+| 1.A  | 01.12.22  | Bischof,Salie | Einen Button erstellen.           |5 min|
+| 1.B | 01.12.22   | Bischof,Salie | Variablen definieren für den Button                 |5 min|
+| 2.A  | 01.12.22  | Bischof,Salie | Label erstellen.                     |5 min|
+| 2.B  | 01.12.22  | Bischof,Salie | Zählen bei Klick von Button.                     |15 min|
+| 2.C  | 01.12.22  | Bischof,Salie | Zähler durch ein Label anzeigen.                        |5 min|
+| 3.A  | 01.12.22  | Bischof,Salie | Label erstellen für Timer.                       |5 min|
+| 3.B  | 01.12.22  | Bischof,Salie | Timer erstelllen.                       |5 min|
+| 3.C  | 01.12.22  | Bischof,Salie | Timer in Minuten unterteilen.                       |5 min|
+| 4.A  | 01.12.22  | Bischof,Salie | Resetbutton erstellen                        |5 min|
+| 4.B  | 01.12.22  | Bischof,Salie | Resetbutton setzt den Zähler zurück.                        |10 min|
+| 4.C  | 01.12.22  | Bischof,Salie | Resetbutton setzt Timer zurück.                        |30 min|
+| 5.A  | 01.12.22  | Hassani,Heiniger | Backofen button erstellen.                 |5 min|
+| 5.B  | 01.12.22  | Hassani,Heiniger | Backofen erhöht Punktzahl.                 |10 min|
+| 5.C  | 01.12.22  | Hassani,Heiniger | Backofen zieht Punktzahl für kauf ab.                 |10 min|
+| 6.A  | 01.12.22  | Hassani,Heiniger | Erstellen vom Bäckerei Button                |5 min|
+| 6.B | 01.12.22  | Hassani,Heiniger | Bäckerei erhöht Punktzahl                 |15 min|
+| 6.C  | 01.12.22  | Hassani,Heiniger | Bäckerei zieht Punktzahl für kauf ab.                 |10 min|
+| 7.A  | 01.12.22  | Hassani,Heiniger | Fabrik button erstellen.                 |5 min|
+| 7.B  | 01.12.22  | Hassani,Heiniger | Fabrik erhöht Punktzahl.                 |10 min|
+| 7.C  | 01.12.22  | Hassani,Heiniger | Fabrik zieht Punktzahl für kauf ab.                 |10 min|
+| 8.A  | 01.12.22  | Hassani,Heiniger | Restaurant button erstellen.                 |5 min|
+| 8.B  | 01.12.22  | Hassani,Heiniger | Restaurant erhöht Punktzahl.                 |10 min|
+| 8.C  | 01.12.22  | Hassani,Heiniger | Restaurant zieht Punktzahl für kauf ab.                 |10 min|
+| 9.A  | 01.12.22  | Hassani,Heiniger | Atomkraftwerk button erstellen.                 |5 min|
+| 9.B  | 01.12.22  | Hassani,Heiniger | Atomkraftwerk erhöht Punktzahl.                 |10 min|
+| 9.C  | 01.12.22  | Hassani,Heiniger | Atomkraftwerk zieht Punktzahl für kauf ab.                 |10 min|
+| 10.A  | 01.12.22  | Heiniger | Cookie Designen.                 |10 min|
+| 11.A  | 08.12.22  | Bischof,Salie | Spielstand abspeichern.                  |45 min|
+| 12.A  | 08.12.22  | Hassani,Heiniger | Highscore Board                |45 min|
+| 12.A  | 08.12.22  | Bischof,Salie | Ausgabe von abgespeicherten Spielstand                |45 min|
 Total: 
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
