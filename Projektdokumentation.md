@@ -36,8 +36,8 @@ Wir machen ein Spiel in dem man auf einen Knopf drücken kann der, dann einen Z�
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  | Wenn der Button geklickt +1             |   klicken des Buttons      |     +1              |
+| 2    | Der Timmer soll pro Sekunde hoch zählen.             |  Zeit vegeht       |  Timer zählt hoch                 |
 
 ✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
@@ -49,8 +49,13 @@ Wir machen ein Spiel in dem man auf einen Knopf drücken kann der, dann einen Z�
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       |           |              |               |
-| ...  |       |           |              |               |
+| 1.A  | 01.12.22  | Heiniger | Einen Button welches man zum Klicken brauchen kann.           |15 min|
+| 2.A | 01.12.22   | Bischof | Zähler zum schauen wie viel man geklickt hat                  |30 min|
+| 2.B  | 01.12.22  | Salie | Upgrades welches den Zähler schneller nach oben gehen lässt.                     |45 min|
+| 4.A  | 01.12.22  | Hassani | Resetbutton welches den Zähler zurück setzt.                        |30 min|
+| 5.A  | 08.12.22  | Hassani,Salie | Design auf Windows Forms                 |90 min|
+| 6.A  | 08.12.22  | Bischof | Spielstand speichern und dann von vorne beginnen.                 |45 min|
+| 7.A  | 08.12.22  | Heiniger | Timer für die Spielzeit.                         |30 min|
 
 Total: 
 
