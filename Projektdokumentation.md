@@ -91,7 +91,7 @@ Total:
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+Wir haben entschieden, zuerst die Mussanforderungen zu machen und falls Zeit übrig ist die Kannanforderungen zuerstellen.
 
 ## 4 Realisieren
 
