@@ -27,7 +27,11 @@ Wir machen ein Spiel in dem man auf einen Knopf drücken kann der, dann einen Z�
 | 5    |  kann                | randanforderung     | Als Benutzer möchte ich mein Spielstand abspeicher, damit ich nicht immer wieder von vorne beginnen muss|
 | 6    |  kann               | randanforderung     | Als Benutzer möchte ich einen Timer haben welcher mir Sagt wie lange ich schon spiele, damit ich weiss wie lange ich schon an einem Spielstand bin              |
 | 7    | kann                | qualität      | Als Benutzer möchte ich schöne Modelle, damit das Spiel besser aussieht                                   |
-| 8    |                 |      |                                    |
+| 8    | kann                | randanforderung     | Als Benutzer möchte ich das Spiel im Vollbild spielen, damit ich das Spiel besser sehen kann                                   |
+| 9    | kann                |funktionale | Als Benutzer möchte ich verschiedene Modis haben, damit man mehr Spass hat und abwechslung.                                   |
+| 10    |kann                 | randanforderung     | Als Benutzer möchte ich eine Datei mit der Bestenliste, damit ich mich mit anderen verlgleichen kann.                                   |
+
+
 
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
