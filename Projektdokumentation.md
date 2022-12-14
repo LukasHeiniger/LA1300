@@ -6,9 +6,9 @@ Pancakes: Grabriel Bischof, Ava Hassani, Steven Salie, Lukas Heiniger
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
-|       | 1.0.0   |                                                              |
+| 1.12.2022      | 0.0.1   | Das Programm hat ein paar funktionale anforderungen ist aber noch am anfang.|
+| 8.12.2022      | 0.0.2    | Das Programm besitzt alle funktionale anforderungen ist aber noch nicht fertig.                                                             |
+| 14.12.2022      | 1.0.0   | Das Programm ist spielbar.                                                             |
 
 ## 1 Informieren
 
@@ -34,8 +34,6 @@ Wir machen ein Spiel in dem man auf einen Knopf drücken kann der, dann einen Z�
 
 
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
-
 ### 1.3 Testfälle
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
@@ -43,7 +41,7 @@ Wir machen ein Spiel in dem man auf einen Knopf drücken kann der, dann einen Z�
 | 1.1  | Wenn der Button geklickt +1             |   klicken des Buttons      |     +1              |
 | 2    | Der Timmer soll pro Sekunde hoch zählen.             |  Zeit vegeht       |  Timer zählt hoch                 |
 | 3    | Durch den Kauf eine Upgrad werden die Punkte abgezogen| kauf des Upgrads| X wert minus Kaufpreis
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
+
 
 ### 1.4 Diagramme
 ![image](https://user-images.githubusercontent.com/111046378/205611501-174ce13b-0339-4ad2-aa65-ba65fbf5388a.png)
