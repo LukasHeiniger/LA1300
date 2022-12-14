@@ -94,8 +94,32 @@ Wir haben entschieden, zuerst die Mussanforderungen zu machen und falls Zeit üb
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  |       |           |               |                   |
+| 1.A  | 01.12.22      |  Bischof,Salie         |  5 min            |    5 min              |
+| 1.A  | 01.12.22      |  Bischof,Salie         |  5 min            |    6 min              |
+| 2.A  | 01.12.22      |  Bischof,Salie         |  5 min              |   2 min                |
+| 2.B  | 01.12.22      |  Bischof,Salie         |  15 min              |   15 min                |
+| 2.C  | 01.12.22      |  Bischof,Salie         |  5 min             |    5 min               |
+| 3.A  | 01.12.22      |  Bischof,Salie         |  5 min             |  5 min                 |
+| 3.B  | 01.12.22      |  Bischof,Salie        |   5 min            |   5 min                |
+| 3.C  | 01.12.22      |  Bischof,Salie        |   5 min            |   5 min                |
 | ...  |       |           |               |                   |
+| ...  |       |           |               |                   |
+| ...  |       |           |               |                   |
+| ...  |       |           |               |                   |
+| ...  |       |           |               |                   |
+| ...  |       |           |               |                   |
+| ...  |       |           |               |                   |
+| ...  |       |           |               |                   |
+| ...  |       |           |               |                   |
+| ...  |       |           |               |                   |
+| ...  |       |           |               |                   |
+| ...  |       |           |               |                   |
+| ...  |       |           |               |                   |
+| ...  |       |           |               |                   |
+| ...  |       |           |               |                   |
+| ...  |       |           |               |                   |
+| ...  |       |           |               |                   |
+
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
