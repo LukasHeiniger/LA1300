@@ -38,7 +38,7 @@ Wir machen ein Spiel in dem man auf einen Knopf drücken kann der, dann einen Z�
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  | Wenn der Button geklickt +1             |   klicken des Buttons      |     +1              |
+| 1    | Wenn der Button geklickt +1             |   klicken des Buttons      |     +1              |
 | 2    | Der Timmer soll pro Sekunde hoch zählen.             |  Zeit vegeht       |  Timer zählt hoch                 |
 | 3    | Durch den Kauf eine Upgrad werden die Punkte abgezogen| kauf des Upgrads| X wert minus Kaufpreis
 
@@ -102,15 +102,15 @@ Wir haben entschieden, zuerst die Mussanforderungen zu machen und falls Zeit üb
 | 3.A  | 01.12.22      |  Bischof,Salie         |  5 min             |  5 min                 |
 | 3.B  | 01.12.22      |  Bischof,Salie        |   5 min            |   5 min                |
 | 3.C  | 01.12.22      |  Bischof,Salie        |   5 min            |   5 min                |
-| ...  |       |           |               |                   |
-| ...  |       |           |               |                   |
-| ...  |       |           |               |                   |
-| ...  |       |           |               |                   |
-| ...  |       |           |               |                   |
-| ...  |       |           |               |                   |
-| ...  |       |           |               |                   |
-| ...  |       |           |               |                   |
-| ...  |       |           |               |                   |
+| 4.A  | 01.12.22      |  Bischof,Salie         |   5 min            |   3min                |
+| 4.B  | 01.12.22      |  Bischof,Salie         |   10 min            |   12min                |
+| 4.C  | 01.12.22      |  Bischof,Salie         |   30 min            |   30 min               |
+| 5.A  | 01.12.22      |  Hassani,Heiniger         |  5 min             |   6 min                |
+| 5.B  | 01.12.22      |  Hassani,Heiniger         |  10 min             |  9 min                 |
+| 5.C  | 01.12.22      |  Hassani,Heiniger         |  10 min             |  8 min                 |
+| 6.A  |       |           |               |                   |
+| 6.B  |       |           |               |                   |
+| 6.C  |       |           |               |                   |
 | ...  |       |           |               |                   |
 | ...  |       |           |               |                   |
 | ...  |       |           |               |                   |
@@ -129,7 +129,30 @@ Wir haben entschieden, zuerst die Mussanforderungen zu machen und falls Zeit üb
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
+| 1   | 01.12.22      |  stimmt        | Bischof,Salie       |
+| 2   | 01.12.22      | stimmt         | Bischof,Salie       |
+| 3   | 01.12.22      |stimmt        |  Hassani,Heiniger      |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
+| ...  |       |          |        |
 | ...  |       |          |        |
 
 ✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
