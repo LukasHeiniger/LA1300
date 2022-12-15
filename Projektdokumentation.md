@@ -38,9 +38,17 @@ Wir machen ein Spiel in dem man auf einen Knopf drücken kann der, dann einen Z�
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1    | Wenn der Button geklickt +1             |   klicken des Buttons      |     +1              |
-| 2    | Der Timmer soll pro Sekunde hoch zählen.             |  Zeit vegeht       |  Timer zählt hoch                 |
-| 3    | Durch den Kauf eine Upgrad werden die Punkte abgezogen| kauf des Upgrads| X wert minus Kaufpreis
+| 1.1    | Wenn der Button geklickt +1             |   klicken des Buttons      |     +1              |
+| 2.1   | +1            |  Button wird weiter gecklickt       |  Zähler geht hoch      |
+| 3.1    | Durch den Kauf eine Upgrad werden die Punkte abgezogen| kauf des Upgrads| X wert minus Kaufpreis |
+| 4.1    | Falls Spiel vorbei oder keine Lust mehr | Reset Button drücken | Programm fängt von Vorne an |
+| 5.1    | Keine Lust mehr oder Fertig | Drücken des Ende Buttons | Gesamt Cookie Anzahl wird gespeichert |
+| 5.2    | Will wieder spielen | Speicherslot auswählen | Geht los mit der vorherigen Cookie Zahl und Upgrades |
+| 6.1    | Der Timmer soll pro Sekunde hoch zählen.             |  Zeit vegeht       |  Timer zählt hoch                 |
+| 7.1    | Spiel wird gestartet | - | Schönes Design wird angezeigt |
+| 8.1    | Design erstellen falls Vollbild aktiviert | Vollbild einstellen | Vollbild mit guter Sklarierung wird angezeigt |
+| 9.1    | Spiel wird gestartet, Auswahl wird angezeigt | Modi auswählen | Modi wird geladen |
+| 10.1   | Spiel wird beendet            |   Ende Button wird gedrückt     |     Spielstand wird in Word oder .txt gespeichert             |
 
 
 ### 1.4 Diagramme
