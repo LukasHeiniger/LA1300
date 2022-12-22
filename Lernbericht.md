@@ -50,15 +50,14 @@ Hier ein Gif, welches den Timer in unserem Projekt zeigt:
    
 
 ## Verifikation
-Der Text zeigt, für was wir den Timer gebraucht haben und wie wir vorgegangen sind.
-Der Code zeigt, wie wir dieses Problem gelöst haben und wie wir von Ticks auf Sekunden und Minuten gelangt sind.
-Das Gif zeigt das Resultat wie ein Timer in Winforms aussehen könnte.
+Der Text zeigt, wofür wir den Timer gebraucht haben und wie wir vorgegangen sind. 
+Der Code zeigt, wie wir dieses Problem gelöst haben und wie wir von Ticks auf Sekunden und Minuten gelangt sind. 
+Das GIF zeigt das Resultat, wie ein Timer in Winforms aussehen könnte.
 
 # Reflexion zum Arbeitsprozess
 
-Wir arbeiteten effizient und effektiv zusammen die Arbeit hat uns allen sehr viel Spass bereitet.
+Wir arbeiteten effizient und effektiv zusammen, die Arbeit hat uns allen sehr viel Spass bereitet.
 
 Die Beteiligung in der Gruppe an den Arbeiten war nicht immer sehr hoch.
 
-Verbesserungsvorschlag:
-Wir möchten alle das nächste Mal unsere Gruppenmitglieder mehr anspornen und ermutigen, mehr mit der Gruppe zu arbeiten.
+Verbesserungsvorschlag: Wir möchten alle das nächste Mal unsere Gruppenmitglieder mehr anspornen und ermutigen, mehr mit der Gruppe zu arbeiten.
