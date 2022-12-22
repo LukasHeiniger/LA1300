@@ -195,4 +195,4 @@ Wir haben entschieden, zuerst die Mussanforderungen zu machen und falls Zeit üb
 
 ## 6 Auswerten
 
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
+(https://github.com/LukasHeiniger/LA1300/blob/main/Lernbericht.md)
