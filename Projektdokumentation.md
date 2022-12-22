@@ -49,27 +49,22 @@ Wir machen ein Spiel in dem man auf einen Knopf drücken kann der, dann einen Z�
 | 8.1    | Design erstellen falls Vollbild aktiviert | Vollbild einstellen | Vollbild mit guter Sklarierung wird angezeigt |
 | 9.1    | Spiel wird gestartet, Auswahl wird angezeigt | Modi auswählen | Modi wird geladen |
 | 10.1   | Spiel wird beendet            |   Ende Button wird gedrückt     |     Spielstand wird in Word oder .txt gespeichert             |
-| 11.1   |                               |                                 |                                                                |
-| 11.1   |                               |                                 |                                                                |
-| 12.1   |                               |                                 |                                                                |
-| 13.1   |                               |                                 |                                                                |
-| 14.1   |                               |                                 |                                                                |
-| 15.1   |                               |                                 |                                                                |
-| 16.1   |                               |                                 |                                                                |
-| 17.1   |                               |                                 |                                                                |
-| 18.1   |                               |                                 |                                                                |
-| 19.1   |                               |                                 |                                                                |
-| 20.1   |                               |                                 |                                                                |
-| 21.1   |                               |                                 |                                                                |
-| 22.1   |                               |                                 |                                                                |
-| 23.1   |                               |                                 |                                                                |
-| 24.1   |                               |                                 |                                                                |
-| 25.1   |                               |                                 |                                                                |
-| 26.1   |                               |                                 |                                                                |
-| 27.1   |                               |                                 |                                                                |
-| 28.1   |                               |                                 |                                                                |
-| 29.1   |                               |                                 |                                                                |
-| 30.1   |                               |                                 |                                                                |
+| 11.1    | Wenn der Button geklickt +1  |   klicken des Buttons      |     +1              |
+| 12.1    | +1            |  Button wird weiter gecklickt       |  Zähler geht hoch      |
+| 13.1    |  Will Upgrade kaufen  |  Upgrade clicken   |   Punkte werden abgezogen   |
+| 13.2    | Upgrade wurde gekauft| - | Der angezeigte Wert bestimmt wieviel mehr du Automatisch bekommst |
+| 12.2    | Upgrade wurde gekauft         |  ZEit vergeht 1Sec     |  Zähler geht automatisch hoch     |
+| 14.1    | Falls Spiel vorbei oder keine Lust mehr | Reset Button drücken | Programm fängt von Vorne an |
+| 15.1    | Keine Lust mehr oder Fertig | Drücken des Ende Buttons | Gesamt Cookie Anzahl wird gespeichert |
+| 15.2    | Will wieder spielen | starte | Speicherslots werden angezeigt |
+| 15.3    | Speicherslot auswahl | auswählen | Geht los mit der vorherigen Cookie Zahl und Upgrades |
+| 16.1    | Der Timmer soll pro Sekunde hoch zählen.             |  Zeit vegeht       |  Timer zählt hoch                 |
+| 17.1    | Spiel wird gestartet | - | Schönes Design wird angezeigt |
+| 18.1    | Man will in Vollbild spielen | Vollbild einstellen | Vollbild wird angezeigt |
+| 18.2    | Vollbild wurde eingestellt | - | Programm wird skaliert |
+| 19.1    | Spiel wird gestartet, Auswahl wird angezeigt | - | Modi werden geladen |
+| 19.2    | Modi sind angezeigt | Ein Modus auswählen | Modus wird geladen |
+| 20.1   | Spiel wird beendet            |   Ende Button wird gedrückt     |     Spielstand wird in Word oder .txt gespeichert             |
 ### 1.4 Diagramme
 ![image](https://user-images.githubusercontent.com/111046378/205611501-174ce13b-0339-4ad2-aa65-ba65fbf5388a.png)
 
@@ -109,10 +104,6 @@ Wir machen ein Spiel in dem man auf einen Knopf drücken kann der, dann einen Z�
 | 12.A  | 08.12.22  | Bischof,Salie | Ausgabe von abgespeicherten Spielstand                |45 min|
 Total: 
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, auf die sich das Arbeitspaket bezieht, und `m` von `A` an nach oben buchstabiert. Beispiel: Das dritte Arbeitspaket, das die zweite User Story betrifft, hat also die Nummer `2.C`.
-
-✍️ Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. Die totale Anzahl Arbeitspakete sollte etwa Folgendem entsprechen: `Anzahl R-Sitzungen` ╳ `Anzahl Gruppenmitglieder` ╳ `4`. Wenn Sie also zu dritt an einem Projekt arbeiten, für welches zwei R-Sitzungen geplant sind, sollten Sie auf `2` ╳ `3` ╳`4` = `24` Arbeitspakete kommen. Sollten Sie merken, dass Sie hier nicht genügend Arbeitspakte haben, denken Sie sich weitere "Kann"-User Stories für Kapitel 1.2 aus.
-
 ## 3 Entscheiden
 
 Wir haben entschieden, zuerst die Mussanforderungen zu machen und falls Zeit übrig ist die Kannanforderungen zuerstellen.
@@ -148,7 +139,7 @@ Wir haben entschieden, zuerst die Mussanforderungen zu machen und falls Zeit üb
 | ...  |       |           |               |                   |
 
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
+
 
 ## 5 Kontrollieren
 
@@ -159,13 +150,13 @@ Wir haben entschieden, zuerst die Mussanforderungen zu machen und falls Zeit üb
 | 1   | 01.12.22      |  stimmt        | Bischof,Salie       |
 | 2   | 01.12.22      | stimmt         | Bischof,Salie       |
 | 3   | 01.12.22      |stimmt        |  Hassani,Heiniger      |
-| ...  |       |          |        |
-| ...  |       |          |        |
-| ...  |       |          |        |
-| ...  |       |          |        |
-| ...  |       |          |        |
-| ...  |       |          |        |
-| ...  |       |          |        |
+| 4   | 22.12.22      | funktioniert nicht | Bischof, Hassani, Heiniger       |
+| 5.1  | 22.12.22      | funktioniert nicht         |  Bischof, Hassani, Heiniger         |
+| 5.2  | 22.12.22      | funktioniert nicht         |  Bischof, Hassani, Heiniger         |
+| 6    | 22.12.22      | funktioniert         |  Bischof, Hassani, Heiniger         |
+| 7    | 22.12.22      | stimmt         |  Bischof, Hassani, Heiniger          |
+| 8    | 22.12.22      | funktioniert nicht         |  Bischof, Hassani, Heiniger          |
+| ...  | 22.12.22      |          |  Bischof, Hassani, Heiniger          |
 | ...  |       |          |        |
 | ...  |       |          |        |
 | ...  |       |          |        |
