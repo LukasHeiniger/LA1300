@@ -49,8 +49,27 @@ Wir machen ein Spiel in dem man auf einen Knopf drücken kann der, dann einen Z�
 | 8.1    | Design erstellen falls Vollbild aktiviert | Vollbild einstellen | Vollbild mit guter Sklarierung wird angezeigt |
 | 9.1    | Spiel wird gestartet, Auswahl wird angezeigt | Modi auswählen | Modi wird geladen |
 | 10.1   | Spiel wird beendet            |   Ende Button wird gedrückt     |     Spielstand wird in Word oder .txt gespeichert             |
-
-
+| 11.1   |                               |                                 |                                                                |
+| 11.1   |                               |                                 |                                                                |
+| 12.1   |                               |                                 |                                                                |
+| 13.1   |                               |                                 |                                                                |
+| 14.1   |                               |                                 |                                                                |
+| 15.1   |                               |                                 |                                                                |
+| 16.1   |                               |                                 |                                                                |
+| 17.1   |                               |                                 |                                                                |
+| 18.1   |                               |                                 |                                                                |
+| 19.1   |                               |                                 |                                                                |
+| 20.1   |                               |                                 |                                                                |
+| 21.1   |                               |                                 |                                                                |
+| 22.1   |                               |                                 |                                                                |
+| 23.1   |                               |                                 |                                                                |
+| 24.1   |                               |                                 |                                                                |
+| 25.1   |                               |                                 |                                                                |
+| 26.1   |                               |                                 |                                                                |
+| 27.1   |                               |                                 |                                                                |
+| 28.1   |                               |                                 |                                                                |
+| 29.1   |                               |                                 |                                                                |
+| 30.1   |                               |                                 |                                                                |
 ### 1.4 Diagramme
 ![image](https://user-images.githubusercontent.com/111046378/205611501-174ce13b-0339-4ad2-aa65-ba65fbf5388a.png)
 
@@ -172,7 +191,7 @@ Wir haben entschieden, zuerst die Mussanforderungen zu machen und falls Zeit üb
 | I    |              |         |                   |                      |
 | ...  |              |         |                   |                      |
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
+
 
 ## 6 Auswerten
 
