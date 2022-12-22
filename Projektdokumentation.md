@@ -173,7 +173,7 @@ Wir haben entschieden, zuerst die Mussanforderungen zu machen und falls Zeit üb
 | ...  |       |          |        |
 | ...  |       |          |        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
+Die negativen Resultate sind nicht allzu schlimm, da das Programm trotzdem läuft.
 
 ### 5.2 Exploratives Testen
 
